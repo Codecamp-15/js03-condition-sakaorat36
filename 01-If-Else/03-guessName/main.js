@@ -1,8 +1,8 @@
 let input = prompt("Guest my name")
-if (input === Sakaorat) {
-    aleart('correct')
+if ('Sakaorat') {
+    alert('correct');
 } else {
-    aleart('incorrect')
+    alert('incorrect');
 }
 
 // if(){

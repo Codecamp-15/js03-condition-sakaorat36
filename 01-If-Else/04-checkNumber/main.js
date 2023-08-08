@@ -1,20 +1,23 @@
 let p = prompt("Number")
 
-if(p > 0)
-{console.log("Positive number")
-} 
-else if (p > 0)
-{console.log("Positive number")    
+if (p > 0) {
+    alert("Positive number")
 }
-else if (p == 0)
-{console.log("Zero")    
+else if (p == 0) {
+    alert("Zero")
 }
-else if (p < 0)
-{console.log("Negative number")    
+else if (p < 0) {
+    alert("Negative number")
 }
-else if (isNaN(p))
-{alert("Invalid number") 
+else 
+{
+    alert("Invalid number")
 }
+
+
+
+
+
 
 // let num1 =prompt('Enter number 1')
 
@@ -33,7 +36,7 @@ else if (isNaN(p))
 //########################################
 
 
-// if (num === null || num.trim() ==='' || isNaN(num){ 
+// if (num === null || num.trim() ==='' || isNaN(num){
 //    alert('Invalid number')
 // }
 

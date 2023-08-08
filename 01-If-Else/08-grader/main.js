@@ -18,3 +18,4 @@ else if (p < 50) {
     console.log("F")
 }
 
+

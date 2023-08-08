@@ -4,3 +4,5 @@ if (0) {
     alert("Nooo");
   }
   // alert(Nooo) เพราะ  0 เป็น false
+
+  

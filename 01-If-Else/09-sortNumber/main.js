@@ -97,3 +97,4 @@ if (x >= y && x >= z && y >= z) {
 }
 
 console.log(`${max} : ${mid} : ${min}`);
+

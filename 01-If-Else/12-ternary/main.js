@@ -3,7 +3,7 @@ let p = num === 'p >= 80' ? 'A':
 num === 'p >= 70' ? 'B':
 num === 'p >= 60' ? 'C':
 num === 'p >= 50' ? 'D':
-nun === 'p < 50' ? 'F'
+'F'
 
 
 // let num = prompt("Number")

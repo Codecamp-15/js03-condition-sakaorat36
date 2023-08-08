@@ -5,9 +5,4 @@ if ('Sakaorat') {
     alert('incorrect');
 }
 
-// if(){
-
-// } else {
-    
-// }
 

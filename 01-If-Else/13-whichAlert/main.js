@@ -1,5 +1,5 @@
 let company = prompt("Which company created JavaScript?");
 company == "Netscape" ? alert("Right!") : alert("Wrong.");
 
-// ทำงานได้ 
+// ทำงานได้ ในกรณี input = Netscape และ alert = Right!
 
